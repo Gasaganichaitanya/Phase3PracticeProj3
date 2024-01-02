@@ -1,0 +1,30 @@
+﻿body {
+    background-color: lightgoldenrodyellow;
+}
+
+.topPanel {
+    position: absolute;
+    left: 5%;
+    right: 5%;
+    top: 5%;
+    height: 20%;
+    width: 80%;
+    background-color: white;
+    color: steelblue;
+}
+
+.mainPanel {
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    right: 5%;
+    height: 70%;
+    width: 80%;
+    background-color: darkblue;
+    color: yellow;
+}
+
+h1, h2 {
+    text-align: center;
+    text-decoration: double;
+}
